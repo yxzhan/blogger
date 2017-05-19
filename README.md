@@ -1,2 +1,2 @@
 # 开发笔记
-内容在[issues](./issues)里面
+内容在[issues](https://github.com/yxzhan/blogger/issues)里面
